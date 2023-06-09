@@ -5,6 +5,7 @@
 #include <SDL2/SDL.h>
 #include <stdint.h>
 #include <math.h>
+#include <float.h>
 #include <limits.h>
 #include <stdio.h>
 #include <stdbool.h>
